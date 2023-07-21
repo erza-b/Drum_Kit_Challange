@@ -1,1 +1,2 @@
 # Drum_Kit_Challange
+This is a Drum Kit Challenge project that I created during a online course. It's a fun and interactive drum kit where users can play various drum sounds by pressing the corresponding keys on their keyboard or clicking on the drum pads.
